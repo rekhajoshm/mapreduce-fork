@@ -1,4 +1,4 @@
-Hadoop MapReduce Change Log
+Hadoop MapReduce Change Log - at fork
 
 Trunk (unreleased changes)
 
